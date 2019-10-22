@@ -9,7 +9,8 @@
     "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
   ],
   "url": "https://docs.google.com/spreadsheets/u/0/d/1FoGhyDoPlPa7FHyUZO8VEvLdLkoJB84H2f7sgXPFDxY/export?format=csv",
-  "dcterms:bibliographicCitation": "Light, J.E., Eckerlin, R.P. & Durden, L.A., 2019. Checklist of ectoparasites of Canidae and Felidae in México. Therya, 10(2), pp.109–119. Available at: http://dx.doi.org/10.12933/therya-19-784.",
+  "dcterms:bibliographicCitation": "Light, J.E., Eckerlin, R.P. & Durden, L.A., 2019. Checklist of ectoparasites of Canidae and Felidae in México. Therya, 10(2), pp.109–119. Available at: https://doi.org/10.12933/therya-19-784.",
+  "doi": "10.12933/therya-19-784",
   "headerRowCount": 1,
   "null": [
     ""
