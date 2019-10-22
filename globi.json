@@ -1,0 +1,191 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "en"
+    }
+  ],
+  "rdfs:comment": [
+    "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
+  ],
+  "url": "https://docs.google.com/spreadsheets/u/0/d/1FoGhyDoPlPa7FHyUZO8VEvLdLkoJB84H2f7sgXPFDxY/export?format=csv",
+  "dcterms:bibliographicCitation": "Light, J.E., Eckerlin, R.P. & Durden, L.A., 2019. Checklist of ectoparasites of Canidae and Felidae in México. Therya, 10(2), pp.109–119. Available at: http://dx.doi.org/10.12933/therya-19-784.",
+  "headerRowCount": 1,
+  "null": [
+    ""
+  ],
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "sourceTaxonGenus",
+        "titles": "ParasiteGenus",
+        "datatype": "string"
+      },
+      {
+        "name": "sourceTaxonSpecificEpithet",
+        "titles": "ParasiteSpecies",
+        "datatype": "string"
+      },
+      {
+        "name": "interactionTypeName",
+        "titles": "AssociationTypeName",
+        "datatype": "string"
+      },
+      {
+        "name": "interactionTypeId",
+        "titles": "AssociationTypeID",
+        "datatype": "string"
+      },
+      {
+        "name": "targetTaxonGenus",
+        "titles": "HostGenus",
+        "datatype": "string"
+      },
+      {
+        "name": "targetTaxonSpecificEpithet",
+        "titles": "HostSpecies",
+        "datatype": "string"
+      },
+      {
+        "name": "targetTaxonSubSpecificEpithet",
+        "titles": "HostSubspecies",
+        "datatype": "string"
+      },
+      {
+        "name": "sourceTaxonFamily",
+        "titles": "ParasiteFamily",
+        "datatype": "string"
+      },
+      {
+        "name": "sourceTaxonOrder",
+        "titles": "ParasiteOrder",
+        "datatype": "string"
+      },
+      {
+        "name": "sourceTaxonSuperoder",
+        "titles": "ParasiteSuperoder",
+        "datatype": "string"
+      },
+      {
+        "name": "sourceTaxonSubclass",
+        "titles": "ParasiteSubclass",
+        "datatype": "string"
+      },
+      {
+        "name": "sourceTaxonClass",
+        "titles": "ParasiteClass",
+        "datatype": "string"
+      },
+      {
+        "name": "sourceTaxonPhylum",
+        "titles": "ParasitePhylum",
+        "datatype": "string"
+      },
+      {
+        "name": "ParasiteCollection",
+        "titles": "ParasiteCollection",
+        "datatype": "string"
+      },
+      {
+        "name": "ParasiteCatalogNo",
+        "titles": "ParasiteCatalogNo",
+        "datatype": "string"
+      },
+      {
+        "name": "ParasiteAuthorityCitation",
+        "titles": "ParasiteAuthorityCitation",
+        "datatype": "string"
+      },
+      {
+        "name": "ParasiteAuthorityHyperlink",
+        "titles": "ParasiteAuthorityHyperlink",
+        "datatype": "string"
+      },
+      {
+        "name": "ParasiteAuthorityDoi",
+        "titles": "ParasiteAuthorityDoi",
+        "datatype": "string"
+      },
+      {
+        "name": "targetTaxonFamily",
+        "titles": "HostFamily",
+        "datatype": "string"
+      },
+      {
+        "name": "targetTaxonOrder",
+        "titles": "HostOrder",
+        "datatype": "string"
+      },
+      {
+        "name": "targetTaxonClass",
+        "titles": "HostClass",
+        "datatype": "string"
+      },
+      {
+        "name": "targetTaxonPhylum",
+        "titles": "HostPhylum",
+        "datatype": "string"
+      },
+      {
+        "name": "HostAuthority",
+        "titles": "HostAuthority",
+        "datatype": "string"
+      },
+      {
+        "name": "HostAuthorityHyperlink",
+        "titles": "HostAuthorityHyperlink",
+        "datatype": "string"
+      },
+      {
+        "name": "HostAuthorityDoi",
+        "titles": "HostAuthorityDoi",
+        "datatype": "string"
+      },
+      {
+        "name": "HostCountry",
+        "titles": "HostCountry",
+        "datatype": "string"
+      },
+      {
+        "name": "HostState",
+        "titles": "HostState",
+        "datatype": "string"
+      },
+      {
+        "name": "localityName",
+        "titles": "HostLocality",
+        "datatype": "string"
+      },
+      {
+        "name": "HostCollection",
+        "titles": "HostCollection",
+        "datatype": "string"
+      },
+      {
+        "name": "HostCatalogNo",
+        "titles": "HostCatalogNo",
+        "datatype": "string"
+      },
+      {
+        "name": "HostComment",
+        "titles": "HostComment",
+        "datatype": "string"
+      },
+      {
+        "name": "referenceCitation",
+        "titles": "AssociationReference",
+        "datatype": "string"
+      },
+      {
+        "name": "referenceUrl",
+        "titles": "AssociationHyperlink",
+        "datatype": "string"
+      },
+      {
+        "name": "referenceDoi",
+        "titles": "AssociationDoi",
+        "datatype": "string"
+      }
+    ]
+  }
+}
