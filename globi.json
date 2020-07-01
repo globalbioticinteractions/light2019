@@ -148,6 +148,11 @@
         "datatype": "string"
       },
       {
+        "name": "ParasiteComment",
+        "titles": "ParasiteComment",
+        "datatype": "string"
+      },
+      {
         "name": "HostState",
         "titles": "HostState",
         "datatype": "string"
